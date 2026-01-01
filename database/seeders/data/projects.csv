@@ -1,0 +1,103 @@
+Assignee,Task Name,Start Date,Deadline,Completion Date,Status,Comments,Reviewer
+Md. Mushfiqur Rahman,Verilog Practice,5-Dec-24,14-Dec-24,14-Dec-24,Completed,,Md. Asif Imran Khan
+Md. Mushfiqur Rahman,Telephone,15-Dec-24,19-Dec-24,19-Dec-24,Completed,,Md. Asif Imran Khan
+Md. Mushfiqur Rahman,Servo motor controller,20-Dec-24,23-Dec-24,23-Dec-24,Completed,,Md. Asif Imran Khan
+Md. Mushfiqur Rahman,APB Subordinate,24-Dec-24,27-Dec-24,27-Dec-24,Completed,,Md. Asif Imran Khan
+Md. Mushfiqur Rahman,Synthesis,28-Dec-24,8-Jan-25,8-Jan-25,Completed,,Md. Asif Imran Khan
+Md. Mushfiqur Rahman,Timer Counter,9-Jan-25,14-Jan-25,16-Jan-25,Completed Late,"Multiple Correction of the spec, MS office installation issues, internet and server issues, Technical issues (MAS, wavedorm, Register configuration with APB, no fsm), Debugging",Md. Asif Imran Khan
+Md. Mushfiqur Rahman,Lift_controller,15-Jan-25,28-Jan-25,28-Jan-25,Completed,,Md. Asif Imran Khan
+Md. Mushfiqur Rahman,Telephone automatic testbench,29-Jan-25,31-Jan-25,31-Jan-25,Completed,,Md. Asif Imran Khan
+Md. Mushfiqur Rahman,SPI,1-Feb-25,14-Feb-25,11-Feb-25,Completed,,Md. Mahadi Hasan Bhuiyan
+Md. Mushfiqur Rahman,AHB Subordinate,18-Feb-25,4-Mar-25,5-Mar-25,Completed Late,"The project length wasn't clearly defined, Verilog presentation and townhall event",Md. Mahmudul Hasan Robin
+Md. Mushfiqur Rahman,RTC,4-Mar-25,18-Mar-25,5-Apr-25,Completed Late,"Started one day late , Technical issues (understaing spec, studying cdc, debugging issue), During Ramadan, Sick in between, Eid vacation in between",A. B. M. Safiulla
+Shakib Hasan,Verilog Practice,13-Mar-25,5-Apr-25,5-Apr-25,Completed,,
+Md. Mushfiqur Rahman,USART,20-Mar-25,10-Apr-25,22-Apr-25,Completed Late,"Project presentation slide preparation, RTC overlapped with this project, Analog training started ",A. K. M. Ferdous
+Md. Misbahul Hasan Jinan,Verilog Practice,21-Mar-25,7-Apr-25,,Overdue,,
+Md. Idrak Efaz,Verilog Practice,21-Mar-25,7-Apr-25,,Overdue,,
+Shakib Hasan,Telephone,7-Apr-25,10-Apr-25,10-Apr-25,Completed,,
+Md. Misbahul Hasan Jinan,Telephone,7-Apr-25,10-Apr-25,,Overdue,,
+Md. Idrak Efaz,Telephone,7-Apr-25,10-Apr-25,10-Apr-25,Completed,,Md. Asif Imran Khan
+Shakib Hasan,Servo Motor Control,10-Apr-25,15-Apr-25,16-Apr-25,Completed Late,,
+Md. Misbahul Hasan Jinan,Servo Motor Control,10-Apr-25,15-Apr-25,,Overdue,,
+Md. Idrak Efaz,Servo Motor Control,10-Apr-25,15-Apr-25,15-Apr-25,Completed,,Md. Asif Imran Khan
+Md. Mushfiqur Rahman,Analog Training,11-Apr-25,16-Jun-25,16-Jun-25,Completed,,A. K. M. Ferdous
+Md. Mushfiqur Rahman,Watchdog Timer,16-Apr-25,30-Apr-25,30-Apr-25,Completed,,Jabid Asraf
+Shakib Hasan,Synthesis,21-Apr-25,23-Apr-25,23-Apr-25,Completed,,
+Md. Misbahul Hasan Jinan,Synthesis,21-Apr-25,23-Apr-25,,Overdue,,
+Md. Idrak Efaz,Synthesis,21-Apr-25,23-Apr-25,,Overdue,,
+Shakib Hasan,APB Design,3-May-25,5-May-25,5-May-25,Completed,,
+Md. Misbahul Hasan Jinan,APB Design,3-May-25,5-May-25,,Overdue,,
+Md. Idrak Efaz,APB Design,3-May-25,5-May-25,5-May-25,Completed,,Md. Asif Imran Khan
+Rakibul Hasan,Verilog Practice,5-May-25,28-May-25,28-May-25,Completed,,Md. Asif Imran Khan
+Nafiz Bin Hasanat,Verilog Practice,5-May-25,28-May-25,28-May-25,Completed,,A. B. M. Safiulla
+Shakib Hasan,Timer Counter,7-May-25,10-May-25,13-May-25,Completed Late,,
+Md. Misbahul Hasan Jinan,Timer Counter,7-May-25,9-May-25,,Overdue,,
+Md. Idrak Efaz,Timer Counter,7-May-25,10-May-25,10-May-25,Completed,,Md. Asif Imran Khan
+Shakib Hasan,Lift Controller Design,13-May-25,20-May-25,20-May-25,Completed,Deadline extended due to holiday,
+Md. Misbahul Hasan Jinan,Lift Controller Design,13-May-25,19-May-25,,Overdue,,
+Md. Idrak Efaz,Lift Controller Design,13-May-25,19-May-25,19-May-25,Completed,,Md. Asif Imran Khan
+Shakib Hasan,SPI Design,21-May-25,13-Jun-25,13-Jun-25,Completed,,Robin
+Md. Misbahul Hasan Jinan,SPI Design,21-May-25,6-Jun-25,,Overdue,,
+Md. Idrak Efaz,SPI Design,21-May-25,13-Jun-25,11-Jun-25,Completed,,Jabid Asraf
+Rakibul Hasan,Telephone,2-Jun-25,11-Jun-25,5-Jun-25,Completed,,Md. Asif Imran Khan
+Nafiz Bin Hasanat,Telephone,2-Jun-25,11-Jun-25,11-Jun-25,Completed,,A. B. M. Safiulla
+Rakibul Hasan,Servo Motor Controller,12-Jun-25,16-Jun-25,16-Jun-25,Completed,,Md. Asif Imran Khan
+Nafiz Bin Hasanat,Servo Motor Controller,12-Jun-25,16-Jun-25,16-Jun-25,Completed,,A. B. M. Safiulla
+Shakib Hasan,I2C Master Design,16-Jun-25,2-Jul-25,2-Jul-25,Completed,,Shadman Hasan Khan
+Md. Misbahul Hasan Jinan,Watchdog Timer,16-Jun-25,19-Jun-25,,Overdue,,
+Md. Idrak Efaz,USART Design,16-Jun-25,2-Jul-25,5-Jul-25,Completed Late,"More time for reading spec ",Jabid Asraf
+Md. Mushfiqur Rahman,SNPS Project,20-Jun-25,1-Jan-27,,In Progress,,Jabid Asraf
+Rakibul Hasan,Vending Machine,23-Jun-25,25-Jun-25,25-Jun-25,Completed,,Md. Asif Imran Khan
+Nafiz Bin Hasanat,Vending Machine,23-Jun-25,25-Jun-25,25-Jun-25,Completed,,A. B. M. Safiulla
+Rakibul Hasan,Synthesis Study,27-Jun-25,28-Jun-25,28-Jun-25,Completed,,Md. Asif Imran Khan
+Nafiz Bin Hasanat,Synthesis Study,27-Jun-25,28-Jun-25,28-Jun-25,Completed,,A. B. M. Safiulla
+Razi Mudassir,FPGA Mini SOC Dev Project,30-Jun-25,19-Sep-25,19-Sep-25,Completed,Managed to complete on time and also succesfully implemented the project they were given,A. K. M. Ferdous
+Md. Niaz Mahmud Sanid,FPGA Mini SOC Dev Project,30-Jun-25,19-Sep-25,19-Sep-25,Completed,Managed to complete on time and also succesfully implemented the project they were given,A. K. M. Ferdous
+Shakil Ahmed Shawon,FPGA Mini SOC Dev Project,30-Jun-25,19-Sep-25,19-Sep-25,Completed,Managed to complete on time and also succesfully implemented the project they were given,A. K. M. Ferdous
+Sattik Debnath,FPGA Mini SOC Dev Project,30-Jun-25,19-Sep-25,19-Sep-25,Completed,Managed to complete on time and also succesfully implemented the project they were given,A. K. M. Ferdous
+Rakibul Hasan,APB Design,2-Jul-25,3-Jul-25,3-Jul-25,Completed,,Md. Asif Imran Khan
+Nafiz Bin Hasanat,APB Design,2-Jul-25,3-Jul-25,3-Jul-25,Completed,,A. B. M. Safiulla
+Rakibul Hasan,Synthesis,5-Jul-25,8-Jul-25,8-Jul-25,Completed,,Md. Asif Imran Khan
+Nafiz Bin Hasanat,Synthesis,5-Jul-25,8-Jul-25,8-Jul-25,Completed,,A. B. M. Safiulla
+Rakibul Hasan,Timer Counter,9-Jul-25,11-Jul-25,15-Jul-25,Completed Late,"Initially completed within deadline, submitted revised copy on the completion date after getting feedback on 14th July from Asif Bhai",Md. Asif Imran Khan
+Nafiz Bin Hasanat,Timer Counter,9-Jul-25,11-Jul-25,15-Jul-25,Completed Late,,A. B. M. Safiulla
+Md. Idrak Efaz,I2C Master Design,11-Jul-25,24-Jul-25,12-Aug-25,Completed Late,Because of sickness can't join office,Shadman Hasan Khan
+Md. Misbahul Hasan Jinan,USART Design,11-Jul-25,25-Jul-25,,Overdue,,
+Shakib Hasan,AHB manager and subordinate Design,11-Jul-25,24-Jul-25,24-Jul-25,Completed,,Robin
+Rakibul Hasan,Lift Controller Design,16-Jul-25,22-Jul-25,23-Jul-25,Completed Late,Completed with extended deadline. Deadline was extended due to server outage,Md. Asif Imran Khan
+Nafiz Bin Hasanat,Lift Controller Design,16-Jul-25,22-Jul-25,22-Jul-25,Completed,,A. B. M. Safiulla
+Nafiz Bin Hasanat,SPI Manager,24-Jul-25,7-Aug-25,8-Aug-25,Completed Late,Didn't consider the first day of 24 July and started counting from 25th July.,A. B. M. Safiulla
+Rakibul Hasan,SPI Manager,24-Jul-25,7-Aug-25,6-Aug-25,Completed,,Md. Asif Imran Khan
+Md. Idrak Efaz,Design Presentation Preparation,28-Jul-25,4-Aug-25,4-Aug-25,Completed,,
+Md. Misbahul Hasan Jinan,Design Presentation Preparation,28-Jul-25,4-Aug-25,,Overdue,,
+Shakib Hasan,Design Presentation Preparation,28-Jul-25,4-Aug-25,4-Aug-25,Completed,,-
+Shakib Hasan,USART,6-Aug-25,22-Aug-25,19-Aug-25,Completed,Deadline extended by 2 dasys due to sickness and  project presentation preparation.,Md. Mahadi Hasan Bhuiyan
+Rakibul Hasan,AHB Memory System Design,11-Aug-25,23-Aug-25,23-Aug-25,Completed,,Md. Asif Imran Khan
+Nafiz Bin Hasanat,Watchdog,11-Aug-25,20-Aug-25,20-Aug-25,Completed,,A. B. M. Safiulla
+Md. Idrak Efaz,Watchdog Timer,13-Aug-25,23-Aug-25,21-Aug-25,Completed,,Jabid Asraf
+Nafiz Bin Hasanat,RTC,22-Aug-25,4-Sep-25,11-Sep-25,Completed Late,"5 days extra. 1 day for sick leave, 4 days for 2 sets of revisions",A. B. M. Safiulla
+Rakibul Hasan,I2C Design,25-Aug-25,8-Sep-25,8-Sep-25,Completed,,Md. Asif Imran Khan
+Shakib Hasan,Watchdog Timer,25-Aug-25,6-Sep-25,4-Sep-25,Completed,,Jabid Asraf
+Md. Idrak Efaz,AHB Design,26-Aug-25,15-Sep-25,18-Sep-25,Completed Late,"Wedding and casual leave ",Shadman Hasan Khan
+Shakib Hasan,RTC,4-Sep-25,22-Sep-25,26-Sep-25,Completed Late,"Took 4 days extra to debug the corner cases and fix the issues pointed. ",A. B. M. Safiulla
+Rakibul Hasan,USART,10-Sep-25,24-Sep-25,,Overdue,,Md. Mahadi Hasan Bhuiyan
+Nafiz Bin Hasanat,I2C Design,12-Sep-25,25-Sep-25,26-Sep-25,Completed Late,Deadline was extended 1 day due to sick leave. Finished within the extended deadline,Md. Asif Imran Khan
+Md. Misbahul Hasan Jinan,AHB subsystem design,19-Sep-25,8-Oct-25,8-Oct-25,Completed,Complete review pending,Shadman Hasan Khan
+Md. Idrak Efaz,RTC Timer Design,19-Sep-25,8-Oct-25,,Overdue,,A. B. M. Safiulla
+Razi Mudassir,DDR SDRAM Study,22-Sep-25,31-Oct-25,,Overdue,,Jabid Asraf
+Md. Niaz Mahmud Sanid,DDR SDRAM Study,22-Sep-25,31-Oct-25,,Overdue,,A. K. M. Ferdous
+Shakil Ahmed Shawon,DDR SDRAM Study,22-Sep-25,31-Oct-25,,Overdue,,A. B. M. Safiulla
+Sattik Debnath,DDR SDRAM Study,22-Sep-25,31-Oct-25,,Overdue,,Md. Mahadi Hasan Bhuiyan
+Nafiz Bin Hasanat,Prepare Design Presentation,27-Sep-25,4-Oct-25,8-Oct-25,Completed Late,,"Md. Mahadi Hasan Bhuiyan, Shadman Hasan Khan, A. B. M. Safiulla"
+Rakibul Hasan,Prepare Design Presentation,27-Sep-25,4-Oct-25,8-Oct-25,Completed Late,,"A. K. M. Ferdous, Md. Asif Imran Khan, Jabid Asraf"
+Chowdhury Raiyath,STA Study & Documentation,15-Sep-25,27-Sep-25,29-Sep-25,Completed Late,"Took one day extra. ",Jabid Asraf
+Fatema Tuz Zohora Soma,STA Study & Documentation,15-Sep-25,27-Sep-25,,Overdue,,Jabid Asraf
+Osama Abrar,STA Study & Documentation,15-Sep-25,27-Sep-25,,Overdue,,Jabid Asraf
+Rakibul Hasan,RTC Design,7-Oct-25,20-Oct-25,,Overdue,,A. B. M. Safiulla
+Md. Misbahul Hasan Jinan,RTC Design,25-Aug-25,8-Sep-25,17-Sep-25,Completed Late,New concept CDC needed more time to understand and implement,A. B. M. Safiulla
+Nafiz Bin Hasanat,AHB subsystem design,7-Oct-25,20-Oct-25,,Overdue,,Shadman Hasan Khan
+Md. Misbahul Hasan Jinan,I2C Manager Design,6-Aug-25,20-Aug-25,22-Aug-25,Completed Late,Sick leave on 15th August and  I had to leave office for sickness in 19th August,Shadman Hasan Khan
+Osama Abrar,USART Synthesis,17-Oct-25,21-Oct-25,,Overdue,,A. B. M. Safiulla
+Fatema Tuz Zohora Soma,USART Synthesis,17-Oct-25,21-Oct-25,,Overdue,,A. B. M. Safiulla
+Chowdhury Raiyath,USART Synthesis,17-Oct-25,21-Oct-25,,Overdue,,A. B. M. Safiulla
+Nafiz Bin Hasanat,USART Development,23-Oct-25,4-Nov-25,,In Progress,,A. K. M. Ferdous
